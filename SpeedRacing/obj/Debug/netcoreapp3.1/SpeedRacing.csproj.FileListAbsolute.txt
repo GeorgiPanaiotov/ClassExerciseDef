@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\ClassExercises\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.exe
+C:\Users\ThinkPad\source\repos\ClassExercises\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.deps.json
+C:\Users\ThinkPad\source\repos\ClassExercises\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.runtimeconfig.json
+C:\Users\ThinkPad\source\repos\ClassExercises\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.runtimeconfig.dev.json
+C:\Users\ThinkPad\source\repos\ClassExercises\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.dll
+C:\Users\ThinkPad\source\repos\ClassExercises\SpeedRacing\bin\Debug\netcoreapp3.1\SpeedRacing.pdb
+C:\Users\ThinkPad\source\repos\ClassExercises\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.csprojAssemblyReference.cache
+C:\Users\ThinkPad\source\repos\ClassExercises\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\ClassExercises\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\ClassExercises\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\ClassExercises\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.dll
+C:\Users\ThinkPad\source\repos\ClassExercises\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.pdb
+C:\Users\ThinkPad\source\repos\ClassExercises\SpeedRacing\obj\Debug\netcoreapp3.1\SpeedRacing.genruntimeconfig.cache
